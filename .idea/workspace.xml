@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d7d6648-1ece-42bc-a5cc-634a3fdb0967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/perfect-scrollbar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg_banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/bg_banner.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg_image_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/bg_image_1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +35,9 @@
       <updated>1640183623815</updated>
       <workItem from="1640183625143" duration="1781000" />
       <workItem from="1640185717653" duration="923000" />
-      <workItem from="1640186701409" duration="1629000" />
+      <workItem from="1640186701409" duration="1968000" />
+      <workItem from="1640770841521" duration="2120000" />
+      <workItem from="1641208254415" duration="5159000" />
     </task>
     <task id="LOCAL-00001" summary="Edited">
       <created>1640184306938</created>
@@ -117,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640187760367</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Edited">
+      <created>1640188381544</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1640188381544</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,18 +134,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Edited" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1640187759217">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1640188380138">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1640187759217" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1640188380138" />
     <state x="277" y="53" key="SettingsEditor" timestamp="1640185413284">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1640185413284" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1640187761865">
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1640188383473">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1640187761865" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1640188383473" />
     <state x="586" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1640184958770">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
