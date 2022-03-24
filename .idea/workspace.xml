@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d7d6648-1ece-42bc-a5cc-634a3fdb0967" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/maruti.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/minibar.virtual.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/minibar.virtual.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/topbar.virtual.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/topbar.virtual.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +28,19 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,6 +54,8 @@
       <workItem from="1640186701409" duration="1968000" />
       <workItem from="1640770841521" duration="2120000" />
       <workItem from="1641208254415" duration="5159000" />
+      <workItem from="1642077271202" duration="124000" />
+      <workItem from="1648110885685" duration="1518000" />
     </task>
     <task id="LOCAL-00001" summary="Edited">
       <created>1640184306938</created>
@@ -150,5 +168,9 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="586" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1640184958770" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1648110917630">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1648110917630" />
   </component>
 </project>
