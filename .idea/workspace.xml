@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d7d6648-1ece-42bc-a5cc-634a3fdb0967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/maruti.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/minibar.virtual.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/minibar.virtual.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/topbar.virtual.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/topbar.virtual.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,28 +15,20 @@
   </component>
   <component name="JupyterTrust" id="1e957d79-5f3c-4101-93b1-b1c106529d7c" />
   <component name="ProjectId" id="22e2Et31SX6fwyHH5Q2mNcem0bc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../novena" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,7 +44,11 @@
       <workItem from="1640770841521" duration="2120000" />
       <workItem from="1641208254415" duration="5159000" />
       <workItem from="1642077271202" duration="124000" />
-      <workItem from="1648110885685" duration="1518000" />
+      <workItem from="1648110885685" duration="1634000" />
+      <workItem from="1654168044715" duration="130000" />
+      <workItem from="1654191750731" duration="143000" />
+      <workItem from="1654191924988" duration="691000" />
+      <workItem from="1654256020567" duration="766000" />
     </task>
     <task id="LOCAL-00001" summary="Edited">
       <created>1640184306938</created>
@@ -141,33 +134,41 @@
       <option name="project" value="LOCAL" />
       <updated>1640188381544</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Edited">
+      <created>1648112507128</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1648112507128</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Edited" />
     <option name="LAST_COMMIT_MESSAGE" value="Edited" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1640188380138">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1648112506534">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1640188380138" />
-    <state x="277" y="53" key="SettingsEditor" timestamp="1640185413284">
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1648112506534" />
+    <state x="549" y="125" key="FileChooserDialogImpl" timestamp="1654168178339">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1640185413284" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1640188383473">
+    <state x="549" y="125" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1654168178339" />
+    <state x="439" y="112" key="NewModule_or_Project.wizard" timestamp="1654168099996">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1640188383473" />
-    <state x="586" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1640184958770">
+    <state x="439" y="112" key="NewModule_or_Project.wizard/0.0.1536.816@0.0.1536.816" timestamp="1654168099996" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1648112510832">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="586" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1640184958770" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1648112510832" />
     <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1648110917630">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
